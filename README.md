@@ -2,6 +2,10 @@
 This repository is to get some information for venture Business Lecture. 
 (이 저장소는 벤처 창업 강의를 위해 필요한 정보를 모으는 곳으로 활용할 것입니다.)
 
+## 기업의 존재 이유
+
+  + [에누마: 테슬라 CEO가 건 현상금 50억의 주인공](https://www.youtube.com/watch?v=BECyWP-op9M&list=PLB7PYmHaa-5p04MH9ZALM7F6wG7kBL0CI)
+
 
 ## 주제 (2020 - Spring)
 
@@ -112,9 +116,19 @@ This repository is to get some information for venture Business Lecture.
   + [사장이 되는 방법 | 김봉진 우아한형제들 대표 | 배달의민족 창업 사장 동기부여 | 강의 강연 | 세바시 281회](https://www.youtube.com/watch?v=-l4-t34HJXw) - 2013
   + [세바시 446회 창업의 시작 나에게 나를 묻다 | 이정수 플리토 대표](https://www.youtube.com/watch?v=YjCJNxE0xfo) - 2014
   + [TOSS 1000만 명이 쓰는 간편 송금 앱 토스 창업부터 지금까지](https://www.youtube.com/watch?v=uPhHPO98M84) -
-  + [배달의민족 창업부터 3조 유니콘 스타트업이 되기까지](https://www.youtube.com/watch?v=e4lctv5VFuQ) - 2019
+
+
+## 사업성공 사례 
+  
+  + [Class 101: 대학생 스타트업으로 시작해 피봇 후 120억 투자를 받기까지](https://www.youtube.com/watch?v=j_NdPp_yebY)
+  + [LinkShops: 15년에 걸쳐 월거래액 300억 링크샵스를 만들기까지](https://www.youtube.com/watch?v=W-tfiDM27mo)
+  + [배달의민족: 창업부터 3조 유니콘 스타트업이 되기까지](https://www.youtube.com/watch?v=e4lctv5VFuQ) - 2019  
+  + [에누마: 테슬라 CEO가 건 현상금 50억의 주인공](https://www.youtube.com/watch?v=BECyWP-op9M&list=PLB7PYmHaa-5p04MH9ZALM7F6wG7kBL0CI)
+  
+  + [해시드: 그럼에도 불구하고 블록체인에 주목해야 하는 이유](https://www.youtube.com/watch?v=fc_NLGLSb4k&list=PLB7PYmHaa-5oS49KHYsJ1ZcCN6Idueq0V)
   
   
-  + [대학생 스타트업으로 시작해 피봇 후 120억 투자를 받기까지](https://www.youtube.com/watch?v=j_NdPp_yebY)
+
+  
 
 

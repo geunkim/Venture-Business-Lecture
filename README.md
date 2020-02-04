@@ -113,5 +113,8 @@ This repository is to get some information for venture Business Lecture.
   + [세바시 446회 창업의 시작 나에게 나를 묻다 | 이정수 플리토 대표](https://www.youtube.com/watch?v=YjCJNxE0xfo) - 2014
   + [TOSS 1000만 명이 쓰는 간편 송금 앱 토스 창업부터 지금까지](https://www.youtube.com/watch?v=uPhHPO98M84) -
   + [배달의민족 창업부터 3조 유니콘 스타트업이 되기까지](https://www.youtube.com/watch?v=e4lctv5VFuQ) - 2019
+  
+  
+  + [대학생 스타트업으로 시작해 피봇 후 120억 투자를 받기까지](https://www.youtube.com/watch?v=j_NdPp_yebY)
 
 

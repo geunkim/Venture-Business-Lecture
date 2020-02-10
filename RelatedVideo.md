@@ -12,3 +12,9 @@
 
 * [엘론 머스크]인류의 미래를 생각하는 현실판 아이언 맨(https://www.youtube.com/watch?v=dv7powwD-tQ)
   + 
+
+
+## TED Talks
+
+* [Aimee Mullin: The opportunity of adversity](https://www.youtube.com/watch?v=dTwXeZ4GkzI)
+

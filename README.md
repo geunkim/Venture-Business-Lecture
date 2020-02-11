@@ -72,11 +72,19 @@ This repository is to get some information for venture Business Lecture.
   
 6. 린스타트업
 
+
+
 7. 에자일 방법론
 
 8. 린 캔버스
 
-9. 플랫폼 비즈니스 
+9. 플랫폼 비즈니스
+
+
+* 관련 동영상
+  + [4차 산업혁명 미래는 공유 경제 플랫폼](https://www.youtube.com/watch?v=1YXLdmsS52w) - 2018
+  
+  
 
 10. 특허 
 

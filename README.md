@@ -137,7 +137,7 @@ This repository is to get some information for venture Business Lecture.
   + [TOSS 1000만 명이 쓰는 간편 송금 앱 토스 창업부터 지금까지](https://www.youtube.com/watch?v=uPhHPO98M84) -
 
 
-## 사업성공 사례 
+## 사업(성공) 사례 
   
   + [Class 101: 대학생 스타트업으로 시작해 피봇 후 120억 투자를 받기까지](https://www.youtube.com/watch?v=j_NdPp_yebY)
   + [LinkShops: 15년에 걸쳐 월거래액 300억 링크샵스를 만들기까지](https://www.youtube.com/watch?v=W-tfiDM27mo)
@@ -146,11 +146,15 @@ This repository is to get some information for venture Business Lecture.
   
   + [해시드: 그럼에도 불구하고 블록체인에 주목해야 하는 이유](https://www.youtube.com/watch?v=fc_NLGLSb4k&list=PLB7PYmHaa-5oS49KHYsJ1ZcCN6Idueq0V)
   
-  + [비트바이트: 전세계 100만 명이 쓰는 어프을 만든 대학생 창업가](https://www.youtube.com/watch?v=iUPirj5exbs)
+  + [비트바이트: 전세계 100만 명이 쓰는 어플을 만든 대학생 창업가](https://www.youtube.com/watch?v=iUPirj5exbs)
      - 우리가 하는 일을 하는 것이 아니라 해야하는 일을 해는 것이다.
-     - 안되는 일을 되게 하는 것이 창업이다. 
-  + [Spoon: 억대 빚 실패에서 만든 글로벌 1,000만 다운로드 어플](https://www.youtube.com/watch?v=w2UrmIbd5Ow)
-     - 
+     - 안되는 일을 되게 하는 것이 창업이다.
+   + [SPOON: 억대 빗 실패에서 만든 글로벌 1,000만 다운로드 어플](https://www.youtube.com/watch?v=w2UrmIbd5Ow)
+     - 실수와 실패는 차이가 있으며 실수는 하지 않아야 한다. 실패의 원인을 분석
+     - 겸손함과 성실함
+   + [작심: 사업 실패 후 독서실 프렌차이즈 2년만에 연 매출 160억](https://www.youtube.com/watch?v=k8KeSooxtzg)
+     - 꿈을 크게 가져라. 
+     - 비전: 자기주도학습을 할 수 있는 콘텐츠 제공
   
 
 

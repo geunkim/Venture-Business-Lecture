@@ -31,6 +31,17 @@ This repository is to get some information for venture Business Lecture.
 
 3. 디지털 경제
 
+* 디지털트랜스포메이션(DT or DX: Digital Transformation)
+  + 문제를 해결하기 위해서 새롭고 빠르게 변하는 디지털 기술을 사용하는 것
+  + 기업이 새로운 비즈니스 모델, 제품 및 서비스를 창출하기 위해 디지털 역량을 활용함으로써 고객 및 시장(외부생태계)의 
+    파괴적인 변화에 적응하거나 이를 추진하는 지속적인 프로세스 - IDC(2015)
+  + 기업이 디지털과 물리적인 요소들을 통합하여 비즈니스 모델을 변화시키고, 산업에 새로운 방향을 정립하는 전략 - IBM(2011)
+  + 근본적으로 고객에게 가치를 운영하고 전달하는 방법을 변화시켜셔 모든 사업 영역에 디지털 기술을 결합하는 것
+     - 예) 햄버거를 사러가서 점원에게 주문을 하는 것이 아니라 키오스크릍 통해서 햄버거를 주문하도록 변경하는 것
+ 
+ * 참고자료 
+  + 
+
 4. 기업가 정신
 *
 
@@ -135,8 +146,11 @@ This repository is to get some information for venture Business Lecture.
   
   + [해시드: 그럼에도 불구하고 블록체인에 주목해야 하는 이유](https://www.youtube.com/watch?v=fc_NLGLSb4k&list=PLB7PYmHaa-5oS49KHYsJ1ZcCN6Idueq0V)
   
-  
-
+  + [비트바이트: 전세계 100만 명이 쓰는 어프을 만든 대학생 창업가](https://www.youtube.com/watch?v=iUPirj5exbs)
+     - 우리가 하는 일을 하는 것이 아니라 해야하는 일을 해는 것이다.
+     - 안되는 일을 되게 하는 것이 창업이다. 
+  + [Spoon: 억대 빚 실패에서 만든 글로벌 1,000만 다운로드 어플](https://www.youtube.com/watch?v=w2UrmIbd5Ow)
+     - 
   
 
 

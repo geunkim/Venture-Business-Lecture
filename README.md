@@ -40,8 +40,10 @@ This repository is to get some information for venture Business Lecture.
      - 예) 햄버거를 사러가서 점원에게 주문을 하는 것이 아니라 키오스크릍 통해서 햄버거를 주문하도록 변경하는 것
  
  * 참고자료 
-  + 
-
+  + [한국형 디지털 트랜스포메이션](https://www.mk.co.kr/news/culture/view/2017/10/671051/) - 2017
+     - 디지털 트랜스포메이션 정의
+  + [4차 산업혁명을 위한 디지털 트랜스포메이션(ITFIND Report)](https://www.itfind.or.kr/publication/regular/weeklytrend/weekly/view.do?boardParam1=7458&boardParam2=7458) - 2018
+  
 4. 기업가 정신
 *
 
@@ -84,19 +86,20 @@ This repository is to get some information for venture Business Lecture.
 6. 린스타트업
 
 
-
 7. 에자일 방법론
+
+
+* 관련 동영상
+   + 
+   
 
 8. 린 캔버스
 
 9. 플랫폼 비즈니스
 
-
 * 관련 동영상
   + [4차 산업혁명 미래는 공유 경제 플랫폼](https://www.youtube.com/watch?v=1YXLdmsS52w) - 2018
-  
-  
-
+    
 10. 특허 
 
 11. 비즈니스 모델 분석 대상 기업
@@ -106,10 +109,20 @@ This repository is to get some information for venture Business Lecture.
   + 토스 
   + 플리토
   + AirB&B
-  + 
+ 
+12. 조직 관리
 
 
-12. 그외 동영상 
+* 관리 동영상
+
+   + [실리콘밸리 엔지니어가 말하는 한국 기업 문화가 달라져야 하는 이유](https://www.youtube.com/watch?v=rORYcBrtZ2A)
+      - 한 영역에서 1%에서 3 영역에서 25%에 들도록... 
+      - 위계조직과 역할조직
+      - 단위 테스트 vs. 통합 테스트 
+      - Open Source Quality - Code Review
+      - 비 효율성을 추구하는 평가 지표 
+
+13. 그외 동영상 
 * 2014
   + [브랜드: 당신의 이름을 알리는 가장 효과적인 방법 | 신병철 스핑클 대표](https://www.youtube.com/watch?v=uooWR3dPegY)
 
@@ -147,14 +160,18 @@ This repository is to get some information for venture Business Lecture.
   + [해시드: 그럼에도 불구하고 블록체인에 주목해야 하는 이유](https://www.youtube.com/watch?v=fc_NLGLSb4k&list=PLB7PYmHaa-5oS49KHYsJ1ZcCN6Idueq0V)
   
   + [비트바이트: 전세계 100만 명이 쓰는 어플을 만든 대학생 창업가](https://www.youtube.com/watch?v=iUPirj5exbs)
-     - 우리가 하는 일을 하는 것이 아니라 해야하는 일을 해는 것이다.
-     - 안되는 일을 되게 하는 것이 창업이다.
-   + [SPOON: 억대 빗 실패에서 만든 글로벌 1,000만 다운로드 어플](https://www.youtube.com/watch?v=w2UrmIbd5Ow)
-     - 실수와 실패는 차이가 있으며 실수는 하지 않아야 한다. 실패의 원인을 분석
-     - 겸손함과 성실함
-   + [작심: 사업 실패 후 독서실 프렌차이즈 2년만에 연 매출 160억](https://www.youtube.com/watch?v=k8KeSooxtzg)
-     - 꿈을 크게 가져라. 
-     - 비전: 자기주도학습을 할 수 있는 콘텐츠 제공
+    - 우리가 하는 일을 하는 것이 아니라 해야하는 일을 해는 것이다.
+    - 안되는 일을 되게 하는 것이 창업이다.
+  + [SPOON: 억대 빗 실패에서 만든 글로벌 1,000만 다운로드 어플](https://www.youtube.com/watch?v=w2UrmIbd5Ow)
+    - 실수와 실패는 차이가 있으며 실수는 하지 않아야 한다. 실패의 원인을 분석
+    - 겸손함과 성실함
+  + [작심: 사업 실패 후 독서실 프렌차이즈 2년만에 연 매출 160억](https://www.youtube.com/watch?v=k8KeSooxtzg)
+    - 꿈을 크게 가져라. 
+    - 비전: 자기주도학습을 할 수 있는 콘텐츠 제공
+  + [아미존 이야기: '아마존과 나의 성장이야기'박정준 이지온 글로벌 대표](https://www.youtube.com/watch?v=wJo9oCwP2kw)
+    - 아마존 성장 레시피
+    - Day One 정신 
+     
   
 
 

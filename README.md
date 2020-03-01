@@ -152,6 +152,8 @@ This repository is to get some information for venture Business Lecture.
   + [워렌버핏의 인생 최고의 조언](https://www.youtube.com/watch?v=Pxwj_kMlWE0)
   + [스티브잡스 스탠포드 연설](https://www.youtube.com/watch?v=1utzfa-a5AY) 
   + [AI 토론 중 일론머스크 멘붕 온 이유. 미국과 중국의 대표 CEO 마윈과 엘론머스크 세기의 대담](https://www.youtube.com/watch?v=VCjkDF3lMbE)
+  + [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지](https://www.youtube.com/watch?v=V9AGvwPmnZU)
+  
 
 * 2020 
   + [미리보는 2020, 김난도의 트렌드 PICK (뉴욕/상하이)](https://www.youtube.com/watch?v=jdmcmpoNKxM)

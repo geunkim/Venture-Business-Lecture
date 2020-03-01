@@ -95,6 +95,12 @@ This repository is to get some information for venture Business Lecture.
 
 8. 린 캔버스
 
+  + [렌딧: 김성준 대표가 스탠포드 창업 교육과 사업 실패를 통해 배운 것들](https://www.youtube.com/watch?v=cL9W75uMFDE)
+   - 1/2 프로젝트: 임팩트가 가진 기업이었으나 지속가능성 ?
+   - 스타일세즈:
+   - Questions
+     * 두번 쨰 장업에서 실패한 이유는?
+ 
 9. 플랫폼 비즈니스
 
 * 관련 동영상

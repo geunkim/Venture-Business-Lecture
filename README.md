@@ -112,7 +112,6 @@ This repository is to get some information for venture Business Lecture.
  
 12. 조직 관리
 
-
 * 관리 동영상
 
    + [실리콘밸리 엔지니어가 말하는 한국 기업 문화가 달라져야 하는 이유](https://www.youtube.com/watch?v=rORYcBrtZ2A)
@@ -123,8 +122,12 @@ This repository is to get some information for venture Business Lecture.
       - 비 효율성을 추구하는 평가 지표 
 
 13. 그외 동영상 
+* 2013
+  + [사장이 되는 방법 | 김봉진 우아한형제들 대표 | 배달의민족 창업 사장 동기부여 | 강의 강연 | 세바시 281회](https://www.youtube.com/watch?v=-l4-t34HJXw) 
+
 * 2014
-  + [브랜드: 당신의 이름을 알리는 가장 효과적인 방법 | 신병철 스핑클 대표](https://www.youtube.com/watch?v=uooWR3dPegY)
++ [브랜드: 당신의 이름을 알리는 가장 효과적인 방법 | 신병철 스핑클 대표](https://www.youtube.com/watch?v=uooWR3dPegY)
++ [세바시 446회 창업의 시작 나에게 나를 묻다 | 이정수 플리토 대표](https://www.youtube.com/watch?v=YjCJNxE0xfo)
 
 * 2016
   + [아마존의 최근 비즈니스 트렌드 분석](https://www.youtube.com/watch?v=eYLkKYMbFzg)
@@ -133,9 +136,9 @@ This repository is to get some information for venture Business Lecture.
 * 2018 - 4차 산업혁명, 생활 속으로 들어오다 by 대통령직속 4차산업혁명위원회
   + [1탄 언어로 보는 4차 산업혁명(조승연 작가)](https://www.youtube.com/watch?v=T6uebYw4f4c) 
   + [2탄 인류로 보는 4차 산업혁명(최재붕 교수)](https://www.youtube.com/watch?v=vz4ctXfmRnk)
-  + [3탄 과학[의 역사로 보는 4차 산업혁명(원종우 작가)] https://www.youtube.com/watch?v=8vdnQvRGiUk)
+  + [3탄 과학[의 역사로 보는 4차 산업혁명(원종우 작가)](https://www.youtube.com/watch?v=8vdnQvRGiUk)
   + [4탄 영화로 보는 4차 산업혁명(배광수 감독)](https://www.youtube.com/watch?v=fv6bULdsSe0)
-* 2020 - [미리보는 2020, 김난도의 트렌드 PICK (뉴욕/상하이)](https://www.youtube.com/watch?v=jdmcmpoNKxM)
+
 
 * 2019
   + [내가 만난 성공한 혁신가들의 공통점 | 김태용 @EO 대표 | 도전 꿈 창업 | 세바시 1132회](https://www.youtube.com/watch?v=DafmZ6i09ck)
@@ -144,34 +147,15 @@ This repository is to get some information for venture Business Lecture.
   + [스티브잡스 스탠포드 연설](https://www.youtube.com/watch?v=1utzfa-a5AY) 
   + [AI 토론 중 일론머스크 멘붕 온 이유. 미국과 중국의 대표 CEO 마윈과 엘론머스크 세기의 대담](https://www.youtube.com/watch?v=VCjkDF3lMbE)
 
-
-  + [사장이 되는 방법 | 김봉진 우아한형제들 대표 | 배달의민족 창업 사장 동기부여 | 강의 강연 | 세바시 281회](https://www.youtube.com/watch?v=-l4-t34HJXw) - 2013
-  + [세바시 446회 창업의 시작 나에게 나를 묻다 | 이정수 플리토 대표](https://www.youtube.com/watch?v=YjCJNxE0xfo) - 2014
-  + [TOSS 1000만 명이 쓰는 간편 송금 앱 토스 창업부터 지금까지](https://www.youtube.com/watch?v=uPhHPO98M84) -
+* 2020 
+  + [미리보는 2020, 김난도의 트렌드 PICK (뉴욕/상하이)](https://www.youtube.com/watch?v=jdmcmpoNKxM)
 
 
-## 사업(성공) 사례 
-  
-  + [Class 101: 대학생 스타트업으로 시작해 피봇 후 120억 투자를 받기까지](https://www.youtube.com/watch?v=j_NdPp_yebY)
-  + [LinkShops: 15년에 걸쳐 월거래액 300억 링크샵스를 만들기까지](https://www.youtube.com/watch?v=W-tfiDM27mo)
-  + [배달의민족: 창업부터 3조 유니콘 스타트업이 되기까지](https://www.youtube.com/watch?v=e4lctv5VFuQ) - 2019  
-  + [에누마: 테슬라 CEO가 건 현상금 50억의 주인공](https://www.youtube.com/watch?v=BECyWP-op9M&list=PLB7PYmHaa-5p04MH9ZALM7F6wG7kBL0CI)
-  
-  + [해시드: 그럼에도 불구하고 블록체인에 주목해야 하는 이유](https://www.youtube.com/watch?v=fc_NLGLSb4k&list=PLB7PYmHaa-5oS49KHYsJ1ZcCN6Idueq0V)
-  
-  + [비트바이트: 전세계 100만 명이 쓰는 어플을 만든 대학생 창업가](https://www.youtube.com/watch?v=iUPirj5exbs)
-    - 우리가 하는 일을 하는 것이 아니라 해야하는 일을 해는 것이다.
-    - 안되는 일을 되게 하는 것이 창업이다.
-  + [SPOON: 억대 빗 실패에서 만든 글로벌 1,000만 다운로드 어플](https://www.youtube.com/watch?v=w2UrmIbd5Ow)
-    - 실수와 실패는 차이가 있으며 실수는 하지 않아야 한다. 실패의 원인을 분석
-    - 겸손함과 성실함
-  + [작심: 사업 실패 후 독서실 프렌차이즈 2년만에 연 매출 160억](https://www.youtube.com/watch?v=k8KeSooxtzg)
-    - 꿈을 크게 가져라. 
-    - 비전: 자기주도학습을 할 수 있는 콘텐츠 제공
-  + [아미존 이야기: '아마존과 나의 성장이야기'박정준 이지온 글로벌 대표](https://www.youtube.com/watch?v=wJo9oCwP2kw)
-    - 아마존 성장 레시피
-    - Day One 정신 
-     
+14. 관련 사이트 
+
+* [K 스타트업 밸리 (Korean Startup Valley)](https://www.ksvalley.com/)
+  + 스타트업 관련 정보가 많은 곳
+* 
   
 
 

@@ -30,5 +30,7 @@
  * [정말로 어려운 일을 해내는 사람들의 마인드 셋](https://www.youtube.com/watch?v=JeW7kNLizbA)
    + There's very little in life that's worth achieving that isn't hard.
    + You are distinshing yourself among other arond you by what you have achieved.
-   
+ 
+ * [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지](https://www.youtube.com/watch?v=V9AGvwPmnZU)
+  
    

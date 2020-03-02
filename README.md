@@ -85,7 +85,17 @@ This repository is to get some information for venture Business Lecture.
   
 6. 린스타트업
 
+* 핵심 
+  + 혁신을 가져올 문제 
+  + 가설 검증의 프로세스 (Learn -     )
+  + 문제와 해결책의 나열
 
+* 관련 동영상
+  + [스타트업의 비즈니스모델을 제대로 배우기](https://www.youtube.com/watch?v=xEL0IHy9nsY)
+    - AARRR
+  + [뒤끝: 실패를 통해 비즈니스 모델의 중요성](https://www.youtube.com/watch?v=SGrSOMLHGUE)
+    - 자동화된 게임 서버 
+ 
 7. 에자일 방법론
 
 

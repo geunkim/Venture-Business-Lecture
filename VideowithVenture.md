@@ -22,8 +22,8 @@
   - Day One 정신 
   - Question
     * 비전
-+ [타다: 타다가 혁식적인 모빌리티 플랫폼](https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q)
-  - 
+  
++ [타다: 타다가 혁식적인 모빌리티 플랫폼](https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q) 
   - Questions
     * 비전
     * 상생의 원칙 (전체의 파이를 키울 수 있는 방법은?)
@@ -36,6 +36,9 @@
   - 지속가능성과 사회적 임팩트가 있는 기업에 투자
     * 예) 친환경 기업 주창 (Green Oil Company)
     * 창업자의 why? (사회적인 문제를 해결하려고 하는가?) - Impact ecosystem 
+    
++ [고스트키친: 배민 출신 창업가가 자영업자들을 위한 만든 공유주방 플랫폼](https://www.youtube.com/watch?v=BpBmImFqMxg)
+  - 실패를 이야기 할 수 있는 자신감
 
 ## 재도전 문화 학산 프로젝트
 
@@ -48,7 +51,7 @@
     * 수능에 적용하지 않는 이유는?
  + [렌딧: 김성준 대표가 스탠포드 창업 교육과 사업 실패를 통해 배운 것들](https://www.youtube.com/watch?v=cL9W75uMFDE)
    - 1/2 프로젝트: 임팩트가 가진 기업이었으나 지속가능성 ?
-   - 
+   
  + [집닥: 100억 원의 빚, 집닥 박성민의 재창업기](https://www.youtube.com/watch?v=aemaP14WFQU)
  
     

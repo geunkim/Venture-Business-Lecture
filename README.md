@@ -38,8 +38,11 @@ This repository is to get some information for venture Business Lecture.
   + 기업이 디지털과 물리적인 요소들을 통합하여 비즈니스 모델을 변화시키고, 산업에 새로운 방향을 정립하는 전략 - IBM(2011)
   + 근본적으로 고객에게 가치를 운영하고 전달하는 방법을 변화시켜셔 모든 사업 영역에 디지털 기술을 결합하는 것
      - 예) 햄버거를 사러가서 점원에게 주문을 하는 것이 아니라 키오스크릍 통해서 햄버거를 주문하도록 변경하는 것
+  
+* 디지털트랜스포메이션의 관련 동영상 
+  + [디지털 트랜스포메이션을 위한 핵심 기술](https://www.youtube.com/watch?v=i9ObESWq6Qg) - 윤심부사장(삼성SDS, CTO) 스마트테크코리아 - 2019 
  
- * 참고자료 
+* 참고자료 
   + [한국형 디지털 트랜스포메이션](https://www.mk.co.kr/news/culture/view/2017/10/671051/) - 2017
      - 디지털 트랜스포메이션 정의
   + [4차 산업혁명을 위한 디지털 트랜스포메이션(ITFIND Report)](https://www.itfind.or.kr/publication/regular/weeklytrend/weekly/view.do?boardParam1=7458&boardParam2=7458) - 2018

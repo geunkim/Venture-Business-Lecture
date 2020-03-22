@@ -81,7 +81,15 @@ This repository is to get some information for venture Business Lecture.
     - 핵심자원 유형 (물적자산, 지적자산, 인적자원, 재무자원)
     - 핵심활동 유형 (제조, 마케팅, 고객관리, 문제해결)
     - 핵심파트너 필요한 이유 ( 최적화, 리스크 감소, 자원 공유)
-    - 비용구조 구성요소 (변동비, 고정비) - 가치주도, 비용주도 
+    - 비용구조 구성요소 (변동비, 고정비) - 가치주도, 비용주도  
+  + [수익모델 설계, 이것만은 꼭 알기! - 1](https://www.youtube.com/watch?v=ujWkKQpUC6k) - 2017
+    - 수익과 수익 모델의 차이점
+  + [수익모델 설계, 이것만은 꼭 알기! - 2](https://www.youtube.com/watch?v=F5aKHnUi2qc) - 2018
+    - 창의적 디자인 사고
+    - 창의적 디자인 사고 프로세스 - 미충족된 니즈 (가치와 혜택)
+    - 고객의 심층 인터뷰 (In-depth interview)
+    - 벤치마킹을 통한 수익모델 정립 - 알리바바의 수익모델의 진화성, 카카오 수익모델의 진화성
+    - 프로토타입 - 빠르게(Rapidly), 개략적(Roughly), 정확하게(Correctly)
   + [비즈니스모델 캔버스로 사업계획서 뼈대를 완성하자3](https://www.youtube.com/watch?v=-RPrb4hKP14) - 2018
   + [카카오택시 - 비즈니스 모델 캔버스](https://www.youtube.com/watch?v=dGAWEdia0_w) - 2018
   + [비즈니스 모델 캔버스 작성 사례](https://www.youtube.com/watch?v=amd39X7ctL8) - 2017

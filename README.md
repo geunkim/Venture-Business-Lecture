@@ -82,6 +82,12 @@ This repository is to get some information for venture Business Lecture.
     - 핵심활동 유형 (제조, 마케팅, 고객관리, 문제해결)
     - 핵심파트너 필요한 이유 ( 최적화, 리스크 감소, 자원 공유)
     - 비용구조 구성요소 (변동비, 고정비) - 가치주도, 비용주도  
+  + [성공 창업의 셜계도를 그려라!(비즈니스 모델편](https://www.youtube.com/watch?v=D7DHdE8BGJ8) - 2017
+    - 비즈니스 모델의 9가지 구성 요소를 쉽게 셜명 
+    - J curve 에 대한 이해 
+    - 잘나가는 경쟁자로 부터 배워라. 나머지 2%의 차별화를 통해 혁신 
+    - 싸이월드와 페이스북의 차이점 
+    - 설득을 하지말고 관찬을 해라.
   + [수익모델 설계, 이것만은 꼭 알기! - 1](https://www.youtube.com/watch?v=ujWkKQpUC6k) - 2017
     - 수익과 수익 모델의 차이점
   + [수익모델 설계, 이것만은 꼭 알기! - 2](https://www.youtube.com/watch?v=F5aKHnUi2qc) - 2018
@@ -154,8 +160,17 @@ This repository is to get some information for venture Business Lecture.
   + [사장이 되는 방법 | 김봉진 우아한형제들 대표 | 배달의민족 창업 사장 동기부여 | 강의 강연 | 세바시 281회](https://www.youtube.com/watch?v=-l4-t34HJXw) 
 
 * 2014
-+ [브랜드: 당신의 이름을 알리는 가장 효과적인 방법 | 신병철 스핑클 대표](https://www.youtube.com/watch?v=uooWR3dPegY)
-+ [세바시 446회 창업의 시작 나에게 나를 묻다 | 이정수 플리토 대표](https://www.youtube.com/watch?v=YjCJNxE0xfo)
+* [브랜드: 당신의 이름을 알리는 가장 효과적인 방법 | 신병철 스핑클 대표](https://www.youtube.com/watch?v=uooWR3dPegY)
+* [세바시 446회 창업의 시작 나에게 나를 묻다 |flitto 이정수 플리토 대표](https://www.youtube.com/watch?v=YjCJNxE0xfo)
+  + 집단지성 번역시스템: 나와의 약속을 지키려는 마음 (자기중심적인 사람이 창업) 
+
+* 2015
++ [세바시 573회 당신의 비즈니스 모델은 무엇입니까? 이경전 경희대 교수, 벤플, 올인 대표](https://www.youtube.com/watch?v=qkwrrMctDR0)
+  + 개인의 비즈니스 모델 (개인의 비즈니스 모델, 경제활동상의 모델)
+  + 비즈니스 모델을 제도(**Rull of game**: 게임의 법칙) -  가치창출하고 가치 전달하고 수익창출의 방법이자 게임의 법칙
+  + 좋은 제도 (가치전달의 효율적인 프로세스를 요구) 
+  + 새로운 네트워크가 만들어지면서 새로운 비즈니스가 만들어짐 - 에) 기차 네트워크가 만들어지면서 숙박업 등이 새로 만들어짐
+  + 비즈니스 모델 혁신은 과학적 방법론에 기반
 
 * 2016
   + [아마존의 최근 비즈니스 트렌드 분석](https://www.youtube.com/watch?v=eYLkKYMbFzg)
@@ -164,7 +179,7 @@ This repository is to get some information for venture Business Lecture.
 * 2018 - 4차 산업혁명, 생활 속으로 들어오다 by 대통령직속 4차산업혁명위원회
   + [1탄 언어로 보는 4차 산업혁명(조승연 작가)](https://www.youtube.com/watch?v=T6uebYw4f4c) 
   + [2탄 인류로 보는 4차 산업혁명(최재붕 교수)](https://www.youtube.com/watch?v=vz4ctXfmRnk)
-  + [3탄 과학[의 역사로 보는 4차 산업혁명(원종우 작가)](https://www.youtube.com/watch?v=8vdnQvRGiUk)
+  + [3탄 과학의 역사로 보는 4차 산업혁명(원종우 작가)](https://www.youtube.com/watch?v=8vdnQvRGiUk)
   + [4탄 영화로 보는 4차 산업혁명(배광수 감독)](https://www.youtube.com/watch?v=fv6bULdsSe0)
 
 

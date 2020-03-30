@@ -32,6 +32,7 @@
   + You are distinshing yourself among other arond you by what you have achieved.
  
 * [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지](https://www.youtube.com/watch?v=V9AGvwPmnZU)
+  + 1일 1 커밋(Commit)
 
 * [퓨처플레이: 인텔이 350억에 인수한 스타트업 창업가가 테크 전문 투자 회사를 만든 이유](https://www.youtube.com/watch?v=qNd18juwqes)
   + 인류의 문제를 해결하는 시도를 시작... 
@@ -46,4 +47,11 @@
    + 매일 무엇인가 꾸준하게 하기
    + 하루에 3줄 일기 쓰기 : 전날 행복했던일, 전날 불행했던일, 오늘 나의 계획..
   
- * [홀로 성장하는 시대는 끝났다 - 이소영](https://www.youtube.com/watch?v=7i3UOP43-3o) - 책 저자 
+ * [홀로 성장하는 시대는 끝났다 - 이소영](https://www.youtube.com/watch?v=7i3UOP43-3o) - 책 저자
+   + 커뮤니티 리더십 (Community Leader)
+   + Microsoft MVP 
+   + 커뮤니티 공부 = ~ 하기 공부: MicroSoft가 MVP를 선발하는 방법으로 대상자가 커뮤니터 공부를 어떻게 하는지의 흔적을 확인
+   + 이웃에게 도움이 되는 삶
+   
+   
+   

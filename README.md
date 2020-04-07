@@ -182,10 +182,13 @@ This repository is to get some information for venture Business Lecture.
   
   
 * 2018 - 4차 산업혁명, 생활 속으로 들어오다 by 대통령직속 4차산업혁명위원회
-  + [1탄 언어로 보는 4차 산업혁명(조승연 작가)](https://www.youtube.com/watch?v=T6uebYw4f4c) 
-  + [2탄 인류로 보는 4차 산업혁명(최재붕 교수)](https://www.youtube.com/watch?v=vz4ctXfmRnk)
-  + [3탄 과학의 역사로 보는 4차 산업혁명(원종우 작가)](https://www.youtube.com/watch?v=8vdnQvRGiUk)
-  + [4탄 영화로 보는 4차 산업혁명(배광수 감독)](https://www.youtube.com/watch?v=fv6bULdsSe0)
+  + 4차 산업혁명, 생활 속으로 들어오다 by 대통령직속 4차산업혁명위원회
+    - [1탄 언어로 보는 4차 산업혁명(조승연 작가)](https://www.youtube.com/watch?v=T6uebYw4f4c) 
+    - [2탄 인류로 보는 4차 산업혁명(최재붕 교수)](https://www.youtube.com/watch?v=vz4ctXfmRnk)
+    - [3탄 과학의 역사로 보는 4차 산업혁명(원종우 작가)](https://www.youtube.com/watch?v=8vdnQvRGiUk)
+    - [4탄 영화로 보는 4차 산업혁명(배광수 감독)](https://www.youtube.com/watch?v=fv6bULdsSe0)
+  
+  + [스타트웝 장업과 투자유치](https://www.youtube.com/watch?v=IOT-FQbYXgE)
 
 
 * 2019
@@ -200,8 +203,9 @@ This repository is to get some information for venture Business Lecture.
     - 대표의 힘 (마일드 스톤) 
     - 시리즈 A: 매출이 나오는 시점 (월별 매출을 통해 미래의 매출을 예측)
     - 시리즈 A, B, C....뜻은?
-  + [투자자에게 직접 궁금한 것들을 물어봤다 #2](https://www.youtube.com/watch?v=6dOp6KL24jU)
-    - 
+   + [투자자에게 직접 궁금한 것들을 물어봤다 #2](https://www.youtube.com/watch?v=6dOp6KL24jU)
+    - 객관성과 스토리가 있는 사업계획서 
+    - Business Model이 보이는 사업계획서 
   
 
 

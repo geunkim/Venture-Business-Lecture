@@ -109,7 +109,12 @@ This repository is to get some information for venture Business Lecture.
 
 * 관련 동영상
   + [스타트업의 비즈니스모델을 제대로 배우기](https://www.youtube.com/watch?v=xEL0IHy9nsY)
-    - AARRR
+    - Dave Maclure의 AARRR 모델 
+    - Acquisition(사용자 획득): 사용자가 어떻게 서비스를 접하는가?
+    - Activation(사용자 활성화): 사용자가 처음 서비스를 이용했을 때 겸험이 좋았는가?
+    - Retention(사용자 유지): 사용자가 우리 서비스를 계속 이용하는가?
+    - Revenue(매출): 어떻게 돈을 버는가?
+    - Referral(추천): 사용자가 다른 사람들에게 제품을 소게하는가?
   + [뒤끝: 실패를 통해 비즈니스 모델의 중요성](https://www.youtube.com/watch?v=SGrSOMLHGUE)
     - 자동화된 게임 서버 
     - 6% vs 94%
@@ -189,6 +194,15 @@ This repository is to get some information for venture Business Lecture.
   + [워렌버핏의 인생 최고의 조언](https://www.youtube.com/watch?v=Pxwj_kMlWE0)
   + [스티브잡스 스탠포드 연설](https://www.youtube.com/watch?v=1utzfa-a5AY) 
   + [AI 토론 중 일론머스크 멘붕 온 이유. 미국과 중국의 대표 CEO 마윈과 엘론머스크 세기의 대담](https://www.youtube.com/watch?v=VCjkDF3lMbE)
+  + [투자자에게 직접 궁금한 것들을 물어봤다 #1](https://www.youtube.com/watch?v=SeNwrKyYi0A)
+    - 코오롱인베스트먼트 조홍수 팀장, 메쉬업엔젤스 이정호 심사역
+    - 팀 빌딩이 비즈니스에 적합한가?
+    - 대표의 힘 (마일드 스톤) 
+    - 시리즈 A: 매출이 나오는 시점 (월별 매출을 통해 미래의 매출을 예측)
+    - 시리즈 A, B, C....뜻은?
+  + [투자자에게 직접 궁금한 것들을 물어봤다 #2](https://www.youtube.com/watch?v=6dOp6KL24jU)
+    - 
+  
 
 
 * 2020 

@@ -5,11 +5,15 @@
 + [LinkShops: 15년에 걸쳐 월거래액 300억 링크샵스를 만들기까지](https://www.youtube.com/watch?v=W-tfiDM27mo)
 + [배달의민족: 창업부터 3조 유니콘 스타트업이 되기까지](https://www.youtube.com/watch?v=e4lctv5VFuQ) - 2019  
 + [에누마: 테슬라 CEO가 건 현상금 50억의 주인공](https://www.youtube.com/watch?v=BECyWP-op9M&list=PLB7PYmHaa-5p04MH9ZALM7F6wG7kBL0CI)
+
++ [그 좋은 교수직을 그만둔 이유 - 최진석 명예교수](https://www.youtube.com/watch?v=vXfJgXlkjiw)
+
+
   
 + [해시드: 그럼에도 불구하고 블록체인에 주목해야 하는 이유](https://www.youtube.com/watch?v=fc_NLGLSb4k&list=PLB7PYmHaa-5oS49KHYsJ1ZcCN6Idueq0V)
   
 + [비트바이트: 전세계 100만 명이 쓰는 어플을 만든 대학생 창업가](https://www.youtube.com/watch?v=iUPirj5exbs)
-  - 우리가 하는 일을 하는 것이 아니라 해야하는 일을 해는 것이다.
+  - 우리가 하는 일을 하는 것이 아니라 해야하는 일을 하는 것이다.
   - 안되는 일을 되게 하는 것이 창업이다.
 + [SPOON: 억대 빗 실패에서 만든 글로벌 1,000만 다운로드 어플](https://www.youtube.com/watch?v=w2UrmIbd5Ow)
   - 실수와 실패는 차이가 있으며 실수는 하지 않아야 한다. 실패의 원인을 분석
@@ -40,7 +44,8 @@
 + [고스트키친: 배민 출신 창업가가 자영업자들을 위한 만든 공유주방 플랫폼](https://www.youtube.com/watch?v=BpBmImFqMxg)
   - 실패를 이야기 할 수 있는 자신감
 
-## 재도전 문화 학산 프로젝트
+
+## 재도전 문화 확산 프로젝트
 
 + [뤼이드 - 산타토익:산타토익 창업자가 말하는 공동 창업할 때 주의할 점](https://www.youtube.com/watch?v=-C_wt58EwK8)
   - AI 엔진을 장착

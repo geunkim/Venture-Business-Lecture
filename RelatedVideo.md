@@ -54,7 +54,7 @@
    + 이웃에게 도움이 되는 삶
    
 * [영어 말하기 실력이 늘지 않는 이유 - 설비 야나두 영어 강사](https://www.youtube.com/watch?v=pQMRvtMsTdQ)
-   + 
+     +
    
    
    

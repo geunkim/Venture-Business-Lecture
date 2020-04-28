@@ -47,11 +47,16 @@
    + 매일 무엇인가 꾸준하게 하기
    + 하루에 3줄 일기 쓰기 : 전날 행복했던일, 전날 불행했던일, 오늘 나의 계획..
   
- * [홀로 성장하는 시대는 끝났다 - 이소영](https://www.youtube.com/watch?v=7i3UOP43-3o) - 책 저자
+* [홀로 성장하는 시대는 끝났다 - 이소영](https://www.youtube.com/watch?v=7i3UOP43-3o) - 책 저자
    + 커뮤니티 리더십 (Community Leader)
    + Microsoft MVP 
    + 커뮤니티 공부 = ~ 하기 공부: MicroSoft가 MVP를 선발하는 방법으로 대상자가 커뮤니터 공부를 어떻게 하는지의 흔적을 확인
    + 이웃에게 도움이 되는 삶
+   
+* [영어 말하기 실력이 늘지 않는 이유 - 설비 야나두 영어 강사](https://www.youtube.com/watch?v=pQMRvtMsTdQ)
+   + 
+   
+   
    
    
    

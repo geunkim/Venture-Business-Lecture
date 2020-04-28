@@ -6,7 +6,7 @@
 * [J.K. Rowling Speaks at Harvard Commencement:조앤 로링 연설](https://www.youtube.com/watch?v=F-ASkoDyvko) (2008)
 * [Elon Musk at California Institute of TEchnology Commencement](https://www.youtube.com/watch?v=MxZpaJK74Y4) (2012)
 * [Neil deGrasse Tyson's Commencement: 닐 디그래스 타이슨](https://www.youtube.com/watch?v=dGJya2dpjko) (20
-     - You realize when you know how to think it empowers you far beyond those who know only what to think. 
+     - You realize when you know how to think, it empowers you far beyond those who know only what to think. 
      
 ## Interviews
 

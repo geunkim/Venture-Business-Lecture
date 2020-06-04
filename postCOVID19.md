@@ -101,7 +101,7 @@
   - want and like
     + want: 사회적인 환경에서 원하는 것
     + like: 만족을 느끼는 것 - 진짜로 좋아하는 것 
- 
+    
 * [제 9편 "대박새대 가고 완판의 시대로" - 김경일 교수](https://www.youtube.com/watch?v=trRQ-7Y9Wgo)
   - 척도
     + 기존
@@ -113,8 +113,10 @@
   - like가 증가되면 전문가가 될 것이고 전문가의 경우 척도의 단계가 증가함 
   - 개성을 살리고 스스로 전문화되는 것이 필요
   - 소확행: 적정한 삶을 사는 것
-  - 적정한 기술이 인류에게 행복감을 준다: 예) 애플이 iphone, ipod 
-  - 
+  - 적정한 기술이 인류에게 행복감을 준다 (Apple의 iphone, ipad)
+  
+* [제 19편  "인류의 삶, 군사안보에서 인간안보로" - 경희대 미래문명원 김민웅 교수](https://youtu.be/bjaWKOcKHL4)
+  -
   
 * [포스트 코로나 - AI과학자들이 진단하는 코로나 이후의 대한민국의 변화 - 대전 MBC](https://www.youtube.com/watch?v=RKqb1M5d-io)
   -  

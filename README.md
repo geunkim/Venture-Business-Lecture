@@ -194,7 +194,7 @@ This repository is to get some information for venture Business Lecture.
 
 * 2019
   + [내가 만난 성공한 혁신가들의 공통점 | 김태용 @EO 대표 | 도전 꿈 창업 | 세바시 1132회](https://www.youtube.com/watch?v=DafmZ6i09ck)
-  + [원하는 걸 이루고 싶다면_오현호 [세상을 바꾸는 시간 15분] / 변화 성장 청춘 열정](https://www.youtube.com/watch?v=oCtda6yxZ5c)
+  + [원하는 걸 이루고 싶다면_오현호 / 변화 성장 청춘 열정](https://www.youtube.com/watch?v=oCtda6yxZ5c)
   + [워렌버핏의 인생 최고의 조언](https://www.youtube.com/watch?v=Pxwj_kMlWE0)
   + [스티브잡스 스탠포드 연설](https://www.youtube.com/watch?v=1utzfa-a5AY) 
   + [AI 토론 중 일론머스크 멘붕 온 이유. 미국과 중국의 대표 CEO 마윈과 엘론머스크 세기의 대담](https://www.youtube.com/watch?v=VCjkDF3lMbE)
@@ -207,12 +207,25 @@ This repository is to get some information for venture Business Lecture.
    + [투자자에게 직접 궁금한 것들을 물어봤다 #2](https://www.youtube.com/watch?v=6dOp6KL24jU)
     - 객관성과 스토리가 있는 사업계획서 
     - Business Model이 보이는 사업계획서 
-  
 
 
 * 2020 
   + [미리보는 2020, 김난도의 트렌드 PICK (뉴욕/상하이)](https://www.youtube.com/watch?v=jdmcmpoNKxM)
 
+
+
+* 2021
+  + [당신은 다른 사람의 성공에 기여한 적 있는가? | 이소영 마이크로소프트 이사 | 성장파트너십 성공 | 세바시 1350회](https://youtu.be/TVuZr92KEOQ)
+    - 성장 마인드셋 / 고정 마인드셋
+    - Impact: 개인의 성과, 다른사람의 성공에 어떻게 기여하나요?
+    - 성공적인 파트너십
+  + [돈 없고 빽없는 사람이 더 좋은 곳으로 가려면 | 정문정 작가| 세바시 1351회](https://youtu.be/WKaoGrbShGM)
+    - 문화적 유산 (문화적 자본): 
+    - 요령
+    - 
+    - 자기 의지를 믿지 않는 것 (내가 할 수 밖에 없는 환경을 만들기)
+    - 수입의 10%를 자신에게 투자하기 
+    - 질투할 수 
 
 14. 관련 사이트 
 

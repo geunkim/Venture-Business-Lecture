@@ -161,7 +161,10 @@ This repository is to get some information for venture Business Lecture.
       - Open Source Quality - Code Review
       - 비 효율성을 추구하는 평가 지표 
 
-13. 그외 동영상 
+
+13. 셀프 리더 (Self Leadership)
+
+15. 그외 동영상 
 * 2013
   + [사장이 되는 방법 | 김봉진 우아한형제들 대표 | 배달의민족 창업 사장 동기부여 | 강의 강연 | 세바시 281회](https://www.youtube.com/watch?v=-l4-t34HJXw) 
 

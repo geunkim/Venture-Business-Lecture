@@ -7,7 +7,7 @@ This repository is to get some information for venture Business Lecture.
   + [에누마: 테슬라 CEO가 건 현상금 50억의 주인공](https://www.youtube.com/watch?v=BECyWP-op9M&list=PLB7PYmHaa-5p04MH9ZALM7F6wG7kBL0CI)
 
 
-## 주제 (2020 - Spring)
+## 주제
 
 1. 4차 산업혁명
 * 소주제
@@ -208,12 +208,9 @@ This repository is to get some information for venture Business Lecture.
     - 객관성과 스토리가 있는 사업계획서 
     - Business Model이 보이는 사업계획서 
 
-
 * 2020 
   + [미리보는 2020, 김난도의 트렌드 PICK (뉴욕/상하이)](https://www.youtube.com/watch?v=jdmcmpoNKxM)
-
-
-
+  
 * 2021
   + [당신은 다른 사람의 성공에 기여한 적 있는가? | 이소영 마이크로소프트 이사 | 성장파트너십 성공 | 세바시 1350회](https://youtu.be/TVuZr92KEOQ)
     - 성장 마인드셋 / 고정 마인드셋

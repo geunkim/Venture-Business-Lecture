@@ -106,7 +106,7 @@
     + want: 사회적인 환경에서 원하는 것
     + like: 만족을 느끼는 것 - 진짜로 좋아하는 것 
     
-* [제 9편 "대박새대 가고 완판의 시대로" - 김경일 교수](https://www.youtube.com/watch?v=trRQ-7Y9Wgo)
+* [제 9편 "대박시대 가고 완판의 시대로" - 김경일 교수](https://www.youtube.com/watch?v=trRQ-7Y9Wgo)
   - 척도
     + 기존
     + 척도의 정량화 (몇점척도로 할 것인가?)

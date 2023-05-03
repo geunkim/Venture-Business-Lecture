@@ -51,16 +51,17 @@ This repository is to get some information for venture Business Lecture.
 *
 
 * 관련 동영상
-  + [지식채널e - [경제 시리즈 시즌3] 11부 기업가 정신](https://www.youtube.com/watch?v=slj2FyqUlm0) - 2014
+  + [지식채널e - [경제 시리즈 시즌3] 11부 기업가 정신](https://www.youtube.com/watch?v=jNOMLv2OyDE) - 2014
     - 기업가 정의
   + [창업기업가정신](https://www.youtube.com/watch?v=G-e42Jfxl20) - 2018
     - 참업의 9 단계
   + [기업은 돈을 버는 곳이 아니라 가치를 만드는 곳이다](https://www.youtube.com/watch?v=HNTJRvUY2Vs) - 2019
     - 앙트십, 창업가의 역할
   + [기업가치 1조 원 유니콘 스타트업 토스의 규제 혁신 이야기](https://www.youtube.com/watch?v=rmZ-NUmqM30) - 2019
+  + [기업가정신 1편 - 발명가와 기업가의 차이, 기업과 정신](https://www.youtube.com/watch?v=oAJ_C2SaT74) - 2023
+  + [기업과정신 2편 - 기업가정신이란 무엇일까?](https://www.youtube.com/watch?v=snohJB1DcVc) - 2023
   
-   
-
+  
 5. 비즈니스 모델 
   + 정의: 어떤 가치를 누구에게 어떻게 전달하여 수익을 창출하는가를 정의
   + 9 가지 요소 (목표고객, 가치, 고객관계, 고객채녈, 핵심자원, 핵심활동, 핵심파트너, 비용구조, 수익구조) 

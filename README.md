@@ -48,9 +48,7 @@ This repository is to get some information for venture Business Lecture.
   + [4차 산업혁명을 위한 디지털 트랜스포메이션(ITFIND Report)](https://www.itfind.or.kr/publication/regular/weeklytrend/weekly/view.do?boardParam1=7458&boardParam2=7458) - 2018
   
 4. 기업가 정신
-*
 
-* 관련 동영상
   + [지식채널e - [경제 시리즈 시즌3] 11부 기업가 정신](https://www.youtube.com/watch?v=jNOMLv2OyDE) - 2014
     - 기업가 정의
   + [창업기업가정신](https://www.youtube.com/watch?v=G-e42Jfxl20) - 2018
@@ -58,6 +56,7 @@ This repository is to get some information for venture Business Lecture.
   + [기업은 돈을 버는 곳이 아니라 가치를 만드는 곳이다](https://www.youtube.com/watch?v=HNTJRvUY2Vs) - 2019
     - 앙트십, 창업가의 역할
   + [기업가치 1조 원 유니콘 스타트업 토스의 규제 혁신 이야기](https://www.youtube.com/watch?v=rmZ-NUmqM30) - 2019
+  + [페이스북 창업자 마크 저커버그의 기업가 정신_실천의 중요성](https://www.youtube.com/watch?v=yeFUD95EYTA) - 2019
   + [기업가정신 1편 - 발명가와 기업가의 차이, 기업가 정신](https://www.youtube.com/watch?v=oAJ_C2SaT74) - 2023
   + [기업과정신 2편 - 기업가정신이란 무엇일까?](https://www.youtube.com/watch?v=snohJB1DcVc) - 2023
   

@@ -192,7 +192,7 @@ This repository is to get some information for venture Business Lecture.
     - [3탄 과학의 역사로 보는 4차 산업혁명(원종우 작가)](https://www.youtube.com/watch?v=8vdnQvRGiUk)
     - [4탄 영화로 보는 4차 산업혁명(배광수 감독)](https://www.youtube.com/watch?v=fv6bULdsSe0)
   
-  + [스타트웝 장업과 투자유치](https://www.youtube.com/watch?v=IOT-FQbYXgE)
+  + [스타트업 창업과 투자유치](https://www.youtube.com/watch?v=IOT-FQbYXgE)
 
 
 * 2019
